@@ -3,7 +3,9 @@ O projeto consiste em desenvolver um aplicatvo de Gerador de Senhas Aleatórias,
 Contendo Letras Minúsculas, Letras Maiúsculas, Números e Símbolos como opções.<br>
 Contendo o botão de copiar a senha.
 
+## Imagem do Gerador de Senhas
+
 ![Gerador de senha](https://github.com/GustavoSchiavinato/Gerador_de_Senhas/blob/main/Gerador%20de%20Senha.jpg)
 
 
-![Sucesso](https://github.com/GustavoSchiavinato/Gerador_de_Senhas/blob/main/Gerador%20de%20Senha.jpg)
+![Sucesso](https://github.com/GustavoSchiavinato/Gerador_de_Senhas/blob/main/Sucesso.jpg)
