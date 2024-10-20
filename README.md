@@ -6,10 +6,10 @@ Contendo o botão de copiar a senha.
 ## Imagem do Gerador de Senhas
 
 ### Tela Inicial do Gerador de Senhas
-![Gerador de senhas 1](https://github.com/GustavoSchiavinato/Gerador-de-Senhas/blob/main/Gerador%20de%20Senhas%20-%201.jpg)
+![Gerador de Senhas 1](https://github.com/GustavoSchiavinato/Gerador-de-Senhas/blob/main/Gerador%20de%20Senhas%20-%201.jpg)
 
 ### Tela do Gerador de Senhas Com a Senha Criada
-![Gerador de senhas 2](https://github.com/GustavoSchiavinato/Gerador-de-Senhas/blob/main/Gerador%20de%20Senhas%20-%202.jpg)
+![Gerador de Senhas 2](https://github.com/GustavoSchiavinato/Gerador-de-Senhas/blob/main/Gerador%20de%20Senhas%20-%202.jpg)
 
 ### Mensagem da Senha Copiada
 ![Sucesso](https://github.com/GustavoSchiavinato/Gerador_de_Senhas/blob/main/Sucesso.jpg)
